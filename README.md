@@ -19,5 +19,3 @@ This project demonstrates how Support Vector Regression (SVR) can be used to pre
 - 2D plot: Compare predictions of Linear, Polynomial, and SVR models
 - 3D plot: View the SVR "tube" prediction surface and adjust its shape using `C`, `gamma`, and `epsilon`
 
-![image](https://github.com/user-attachments/assets/5b948171-2df8-4254-9cf0-2b48e57bb5b0)
-![image](https://github.com/user-attachments/assets/588bbe08-578f-486f-8ec7-bc1d6cac6261)
